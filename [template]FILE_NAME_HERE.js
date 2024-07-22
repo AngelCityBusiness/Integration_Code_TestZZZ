@@ -30,7 +30,7 @@
     document.head.appendChild(style);
     
     //************************************************
-    //NEW INTEGRATION CODE: <script src="https://chat.angelpro.ai/bot_27680.js"></script><div id="chat_form"></div>
+    //NEW INTEGRATION CODE: <script src="https://chatbot.angelpro.ai/bot_#####.js"></script><div id="chat_form"></div>
      //Change out subdomain.YOURDOMAIN.suffix with your own domain/subdomain, i.e.: chatbot.coolchatbotz.com
 
     //Notice the Integration code does NOT include the repository name. The repo name is not necessary for the integration code.
